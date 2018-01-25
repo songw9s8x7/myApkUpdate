@@ -1,5 +1,6 @@
 {
 	"url":"https://raw.githubusercontent.com/songw9s8x7/myApkUpdate/master/tuyaluzhi.apk",
 	"versionCode":3,
+	"isForce":true,
 	"updateMessage":"测试一下啊"
 }
