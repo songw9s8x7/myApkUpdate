@@ -1,15 +1,3 @@
-HTTP/1.1 200 OK
-Access-Control-Allow-Methods: GET,HEAD,PUT,POST,DELETE
-Access-Control-Allow-Origin: *
-Connection: keep-alive
-Content-Encoding: gzip
-Content-Type: application/json; charset=utf-8
-Date: Mon, 14 Jan 2019 02:39:15 GMT
-Server: openresty/1.13.6.2
-Transfer-Encoding: chunked
-Vary: Accept-Encoding, Accept, Origin
-X-Request-Id: bd63c3a7-bd29-403d-a7e2-c60d2063ef9a
-
 {
   "paging": {
     "is_end": false,
